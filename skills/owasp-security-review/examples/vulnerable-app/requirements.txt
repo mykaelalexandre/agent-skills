@@ -1,0 +1,4 @@
+# Intentionally old pins. Do not install outside an isolated throwaway environment.
+Flask==0.12.2
+PyYAML==3.12
+requests==2.19.1

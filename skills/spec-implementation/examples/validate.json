@@ -1,0 +1,7 @@
+{
+  "tail_chars": 4000,
+  "commands": [
+    { "name": "tests", "cmd": "python -m pytest -q", "timeout": 300 },
+    { "name": "lint", "cmd": "python -m ruff check ." }
+  ]
+}
